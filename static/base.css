@@ -1,0 +1,21 @@
+    *{
+        margin:0;
+        padding:0;
+    }//所有标签设置
+    body{
+        margin-top:100px!important;
+    }
+
+    /*div.nav{
+        background-color:#eee;
+        border-bottom:1px solid #ccc;
+    }
+    div.nav a{
+        text-decoration:none;
+        color:#000;
+        padding:15px 10px;//内边距设置 上下 左右
+    }
+     a.logo{
+        display:inline-block;
+        font-size:120%;
+    }*/
